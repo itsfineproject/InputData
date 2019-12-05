@@ -1,4 +1,4 @@
-package inputdata;
+package itsfine.com.inputdata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package inputdata.service;
+package itsfine.com.inputdata.service;
 
 import org.junit.jupiter.api.Test;
 
